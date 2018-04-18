@@ -19,4 +19,9 @@ print add2(3, 4, 4 )
 			return s
 
 print add2(3,4,4,5)
+	def add3(num1, num2,num3,num4,num5):
+			s = num1 + num2 +num3 +num4+num5
+			return s
+
+print add2(3,4,4,5,4)
 	
